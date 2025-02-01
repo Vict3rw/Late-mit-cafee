@@ -22,7 +22,7 @@ logging.basicConfig(
 app = Flask(__name__)
 
 # اطلاعات موردنیاز
-TELEGRAM_BOT_TOKEN = "7997583221:AAGlMe6GaDl3l9zwcVVxRiUdkOFQZncXWW8"
+TELEGRAM_BOT_TOKEN = "7997583221:AAH5FuAyzSwal9_LJPMRW0KcYNKq4ffhvfY"
 SERVER_URL = "https://xcoore-development.glitch.me/"
 user_data = {}
 
